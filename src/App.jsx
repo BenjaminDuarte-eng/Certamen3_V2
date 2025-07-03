@@ -101,10 +101,10 @@ function App() {
         <thead>
           <tr>
             <th>Nombre</th>
-            <th>Asignatura</th>
-            <th>Promedio</th>
-            <th>Escala</th>
-            <th>Acciones</th>
+            <th>/Asignatura</th>
+            <th>/Promedio</th>
+            <th>/Escala</th>
+            <th>/Opciones/</th>
           </tr>
         </thead>
         <tbody>
